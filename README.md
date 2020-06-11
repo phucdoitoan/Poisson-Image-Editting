@@ -13,10 +13,10 @@ and a target image.
 
 ![Trump face](https://github.com/phucdoitoan/Poisson-Image-Editting/blob/master/my_data/trump.jpg)
 
-A simple composition will result an image in obvious boundary.
+A simple composition will result an image with obvious boundary.
 
 ![Simple composition](https://github.com/phucdoitoan/Poisson-Image-Editting/blob/master/kim_trump_wo_poisson.png)
 
-Poisson Image Editting give a smoothed, far better image.
+Poisson Image Editting gives a smoothed, far better image.
 
 ![Poisson composition](https://github.com/phucdoitoan/Poisson-Image-Editting/blob/master/kim_trump_w_poisson.png)
