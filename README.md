@@ -47,7 +47,7 @@ My Python/Numpy implementation of the [Poisson Image Editting](https://dl.acm.or
 </table>
 
 
-### A mouth on a hand
+### A mouth on my hand
 
 <table>
   <tr>
