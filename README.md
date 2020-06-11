@@ -21,6 +21,11 @@ Poisson Image Editting gives a smoothed, far better image.
 
 ![Poisson composition](https://github.com/phucdoitoan/Poisson-Image-Editting/blob/master/kim_trump_w_poisson.png)
 
-<p align="center">
+<table>
+<tr align="center">
   <img src="https://github.com/phucdoitoan/Poisson-Image-Editting/blob/master/kim_trump_w_poisson.png" width="350" title="hover text">
-</p>
+</tr>
+ <tr align="center">
+  <img src="https://github.com/phucdoitoan/Poisson-Image-Editting/blob/master/kim_trump_w_poisson.png" width="350" title="hover text">
+</tr>
+</table>
