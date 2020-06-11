@@ -1,33 +1,32 @@
 # Poisson-Image-Editting
 My Python/Numpy implementation of the [Poisson Image Editting](https://dl.acm.org/doi/10.1145/1201775.882269) for my CV class.
 
-Taking a source image,
-
-![Kim face](https://github.com/phucdoitoan/Poisson-Image-Editting/blob/master/my_data/kim.png)
-
-a mask of the source image,
-
-![kim mask](https://github.com/phucdoitoan/Poisson-Image-Editting/blob/master/my_data/kim_mask.png)
-
-and a target image.
-
-![Trump face](https://github.com/phucdoitoan/Poisson-Image-Editting/blob/master/my_data/trump.jpg)
-
-A simple composition will result an image with obvious boundary.
-
-![Simple composition](https://github.com/phucdoitoan/Poisson-Image-Editting/blob/master/kim_trump_wo_poisson.png)
-
-Poisson Image Editting gives a smoothed, far better image.
-
-![Poisson composition](https://github.com/phucdoitoan/Poisson-Image-Editting/blob/master/kim_trump_w_poisson.png)
+Given a source image, a mask of the source image, and a target image.
 
 <table>
-<tr align="center">
-  <th>
-  <img src="https://github.com/phucdoitoan/Poisson-Image-Editting/blob/master/kim_trump_w_poisson.png" width="350" title="hover text">
-  </th>
-  <th>
-  <img src="https://github.com/phucdoitoan/Poisson-Image-Editting/blob/master/kim_trump_w_poisson.png" width="350" title="hover text">
-  </th>
-</tr>
+  <tr>
+    <th>
+      <img src="https://github.com/phucdoitoan/Poisson-Image-Editting/blob/master/my_data/kim.png" width="200" title="Kim face">
+    </th>
+    <th>
+      <img src="https://github.com/phucdoitoan/Poisson-Image-Editting/blob/master/my_data/kim_mask.png" width="200" title="Kim mask">
+    </th>
+    <th>
+      <img src="https://github.com/phucdoitoan/Poisson-Image-Editting/blob/master/my_data/trump.jpg" width="200" title="Trump face">
+    </th>
+  </tr>
+</table>
+
+A simple composition will result an image with obvious boundary. Poisson Image Editting gives a smoothed, far better image.
+
+
+<table>
+  <tr>
+    <th>
+      <img src="https://github.com/phucdoitoan/Poisson-Image-Editting/blob/master/kim_trump_wo_poisson.png" width="200" title="Without poisson">
+    </th>
+    <th>
+      <img src="https://github.com/phucdoitoan/Poisson-Image-Editting/blob/master/kim_trump_w_poisson.png" width="200" title="With poisson">
+    </th>
+  </tr>
 </table>
