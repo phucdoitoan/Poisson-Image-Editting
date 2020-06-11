@@ -20,3 +20,7 @@ A simple composition will result an image with obvious boundary.
 Poisson Image Editting gives a smoothed, far better image.
 
 ![Poisson composition](https://github.com/phucdoitoan/Poisson-Image-Editting/blob/master/kim_trump_w_poisson.png)
+
+<p align="center">
+  <img src="https://github.com/phucdoitoan/Poisson-Image-Editting/blob/master/kim_trump_w_poisson.png" width="350" title="hover text">
+</p>
