@@ -1,6 +1,6 @@
 # Poisson-Image-Editting
 
-###Python/Numpy implementation of the [Poisson Image Editting](https://dl.acm.org/doi/10.1145/1201775.882269) for Computer Vision class at Kyoto University, Spring 2020.
+### Python/Numpy implementation of the [Poisson Image Editting](https://dl.acm.org/doi/10.1145/1201775.882269) for Computer Vision class at Kyoto University, Spring 2020.
 
 Given a source image, a mask of the source image, and a target image.
 
