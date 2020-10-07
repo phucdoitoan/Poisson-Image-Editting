@@ -1,7 +1,8 @@
 # Poisson-Image-Editting
-Python/Numpy implementation of the [Poisson Image Editting](https://dl.acm.org/doi/10.1145/1201775.882269) for Computer Vision class at Kyoto University, Spring 2020.
 
-### Given a source image, a mask of the source image, and a target image.
+###Python/Numpy implementation of the [Poisson Image Editting](https://dl.acm.org/doi/10.1145/1201775.882269) for Computer Vision class at Kyoto University, Spring 2020.
+
+Given a source image, a mask of the source image, and a target image.
 
 <table>
   <tr>
@@ -17,7 +18,7 @@ Python/Numpy implementation of the [Poisson Image Editting](https://dl.acm.org/d
   </tr>
 </table>
 
-### A simple composition will result an image with obvious boundary. Poisson Image Editting gives a smoothed, far better image.
+A simple composition will result an image with obvious boundary. Poisson Image Editting gives a smoothed, far better image.
 
 
 <table>
@@ -31,9 +32,9 @@ Python/Numpy implementation of the [Poisson Image Editting](https://dl.acm.org/d
   </tr>
 </table>
 
-## Another examples:
+### Another examples:
 
-### An eye on a hand
+An eye on a hand
 
 <table>
   <tr>
@@ -47,7 +48,7 @@ Python/Numpy implementation of the [Poisson Image Editting](https://dl.acm.org/d
 </table>
 
 
-### A mouth on my hand
+A mouth on a hand
 
 <table>
   <tr>
