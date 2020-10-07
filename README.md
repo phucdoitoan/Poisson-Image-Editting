@@ -32,7 +32,7 @@ A simple composition will result an image with obvious boundary. Poisson Image E
   </tr>
 </table>
 
-### Another examples:
+### Other examples
 
 An eye on a hand
 
